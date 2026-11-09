@@ -13,4 +13,8 @@
     border-radius: 0.5rem;
     background: rgb(245, 245, 220);
     margin: 1rem;
+    .list-parent{
+        padding: 0.5rem;
+        
+    }
 }
